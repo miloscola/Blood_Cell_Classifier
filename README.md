@@ -5,12 +5,15 @@ The blood cell classifier is a convolutional neural network that classifies imma
 ## Example Images
 
 Neutrophil:
+
 ![BNE_974504](https://github.com/user-attachments/assets/9d3b94d3-142d-4652-8536-ac4143778723)
 
 Eosinophil:
+
 ![EO_787359](https://github.com/user-attachments/assets/9c078562-ea81-4466-8a14-ded837215380)
 
 Basophil:
+
 ![BA_546746](https://github.com/user-attachments/assets/7ec0ecc7-e26d-4fd3-93c3-7e40ed27ccd9)
 
 ## Results
