@@ -17,7 +17,7 @@ Basophil:
 ![BA_546746](https://github.com/user-attachments/assets/7ec0ecc7-e26d-4fd3-93c3-7e40ed27ccd9)
 
 ## Results
-The model scorred 96% accuracy on the testing data with a cross entropy loss of 0.1637
+The model scorred 96% accuracy on the testing data with a cross entropy loss of 0.1637. Graphs of the training and validation accuracy and loss can be found below. 
 
 ![training loss](https://github.com/user-attachments/assets/b40b6679-3424-4b03-926a-9815a3919974)
 
